@@ -1,4 +1,4 @@
-jekyll-gulp-sass-browser-sync
+jekyll-gulp-scss-browser-sync
 =============================
 
 A template project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
